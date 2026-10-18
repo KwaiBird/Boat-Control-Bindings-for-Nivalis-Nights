@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup Condition="'$(BuildArtifactsDir)' != ''">
+    <DefaultItemExcludes>$(DefaultItemExcludes);**/bin/**;**/obj/**</DefaultItemExcludes>
+    <BaseIntermediateOutputPath>$(BuildArtifactsDir)\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(BuildArtifactsDir)\bin\$(MSBuildProjectName)\</BaseOutputPath>
+  </PropertyGroup>
+</Project>
