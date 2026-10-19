@@ -1,6 +1,6 @@
 # Boat Control Bindings for Nivalis Nights
 
-Keyboard and controller bindings for the boat engine, docking and lights in [Nivalis Nights](https://store.steampowered.com/app/1488490/Nivalis_Nights/).
+This mod adds keyboard and controller bindings for starting and stopping the boat engine, docking, and toggling the lights [Nivalis Nights](https://store.steampowered.com/app/1488490/Nivalis_Nights/).
 
 Version: 0.1.8.
 
@@ -69,12 +69,6 @@ Invalid or conflicting bindings are disabled and reported in the log. Steam Inpu
 ## Updating
 
 Close the game before replacing the DLL. Keep only one copy of Boat Control Bindings inside `BepInEx/plugins/`, including its subfolders. Existing configuration files can be kept.
-
-### Updating from Boat Shortcuts
-
-Remove the old `NivalisNights.BoatShortcuts.dll` from `BepInEx/plugins/` and its subfolders before installing Boat Control Bindings. Do not load both versions together.
-
-The INI is now named `NivalisNights.BoatControlBindings.ini`. If it does not exist, the plugin imports `local.nivalisnights.boatcontrolbindings.ini`, or falls back to `local.nivalisnights.boatshortcuts.ini` when the former is absent. Existing settings take priority, and legacy files are preserved.
 
 ## Uninstallation
 
