@@ -4,12 +4,12 @@ Independent mods for [Nivalis Nights](https://store.steampowered.com/app/1488490
 
 Install only the mods you want. Each mod has its own DLL, configuration file, version and license notice; neither mod requires the other.
 
-| Mod | Purpose | Version | Instructions |
-| --- | --- | --- | --- |
-| Boat Control Bindings | Keyboard and controller shortcuts for boat controls | 0.1.8 | [README](src/BoatControlBindings/README.md) |
-| Flat Nivalis Times | Newspaper Readability Mod | 1.0.0 | [README](src/FlatNivalisTimes/README.md) |
+| Mod | Purpose | Version | Instructions | Download |
+| --- | --- | --- | --- | --- |
+| Boat Control Bindings | Keyboard and controller shortcuts for boat controls | 0.1.8 | [README](src/BoatControlBindings/README.md) | [Release](https://github.com/KwaiBird/Nivalis-Nights-Mods/releases/tag/v0.1.8) |
+| Flat Nivalis Times | Newspaper Readability Mod | 1.0.0 | [README](src/FlatNivalisTimes/README.md) | [Release](https://github.com/KwaiBird/Nivalis-Nights-Mods/releases/tag/flat-nivalis-times-v1.0.0) |
 
-This branch is a distribution-content preview. Flat Nivalis Times 1.0.0 is being prepared and has not been published; its download will be added after review. Existing Boat releases are unchanged. Compiled DLLs are distributed as separate release downloads, rather than committed to the source tree.
+Download each mod separately from its release page. Choose the mod ZIP to install it; source ZIPs are for building from source. Compiled DLLs are distributed as release downloads, rather than committed to the source tree.
 
 ## Requirements
 
