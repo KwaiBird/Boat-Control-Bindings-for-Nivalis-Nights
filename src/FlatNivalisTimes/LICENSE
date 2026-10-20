@@ -1,0 +1,30 @@
+Zero-Clause BSD (0BSD)
+SPDX-License-Identifier: 0BSD
+
+Copyright (C) 2026 KwaiBird
+
+Permission to use, copy, modify, and/or distribute this software for
+any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
+WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Scope and third-party notice
+----------------------------
+The license above applies to Flat Nivalis Times source code, the
+compiled mod, and its accompanying authored documentation only.
+
+Nivalis Nights, BepInEx, Unity, Harmony, Il2CppInterop and all other
+third-party software or assets remain subject to their respective
+authors' and rights holders' licenses and terms. This license does not
+relicense those materials.
+
+No original game files, copied or decompiled game code, game assets,
+or third-party library binaries are included in the release archives.
+The newspaper content, game fonts, hand model and other game assets are
+referenced from the installed game at runtime and are not redistributed.

@@ -16,8 +16,9 @@ OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 Scope and third-party notice
 ----------------------------
-The license above applies to Boat Control Bindings source code, the
-compiled mod, and its accompanying authored documentation only.
+The license above applies to the authored source code, compiled mods,
+documentation and shared build files for Boat Control Bindings and
+Flat Nivalis Times only. See each mod folder for its license notice.
 
 Nivalis Nights, BepInEx, Unity, Harmony, Il2CppInterop and all other
 third-party software or assets remain subject to their respective
